@@ -1,0 +1,25 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A simple calulator application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrinceOT/Calculator.git"
+  },
+  "keywords": [
+    "Html",
+    "JavaScript",
+    "Node",
+    "CSS"
+  ],
+  "author": "David Olaribigbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrinceOT/Calculator/issues"
+  },
+  "homepage": "https://github.com/PrinceOT/Calculator#readme"
+}
